@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="130px" height="130px" viewBox="0 0 130 130" enable-background="new 0 0 130 130" xml:space="preserve">
+<g>
+	<circle fill="#2980DE" cx="65" cy="64.999" r="64"/>
+	<g>
+		<circle fill="#FFFFFF" cx="27.627" cy="74.655" r="4.908"/>
+		<circle fill="#FFFFFF" cx="59.398" cy="50.634" r="6.974"/>
+		<circle fill="#FFFFFF" cx="88.585" cy="80.597" r="5.683"/>
+		<circle fill="#FFFFFF" cx="91.426" cy="53.475" r="3.616"/>
+		<circle fill="#FFFFFF" cx="46.741" cy="77.497" r="3.616"/>
+		<circle fill="#FFFFFF" cx="28.402" cy="55.542" r="3.1"/>
+		<circle fill="#FFFFFF" cx="66.63" cy="36.428" r="3.615"/>
+		<circle fill="#FFFFFF" cx="67.921" cy="76.206" r="2.583"/>
+		<circle fill="#FFFFFF" cx="105.892" cy="76.206" r="3.615"/>
+		<circle fill="#FFFFFF" cx="81.353" cy="62.515" r="2.583"/>
+		<line fill="none" stroke="#FFFFFF" x1="29.436" y1="73.623" x2="59.398" y2="50.634"/>
+		<line fill="none" stroke="#FFFFFF" x1="58.882" y1="51.409" x2="88.585" y2="80.597"/>
+		<line fill="none" stroke="#FFFFFF" x1="88.585" y1="80.597" x2="91.427" y2="53.475"/>
+		<line fill="none" stroke="#FFFFFF" x1="88.585" y1="80.597" x2="106.667" y2="76.206"/>
+		<line fill="none" stroke="#FFFFFF" x1="91.427" y1="53.475" x2="81.354" y2="62.515"/>
+		<line fill="none" stroke="#FFFFFF" x1="59.398" y1="50.634" x2="66.631" y2="36.428"/>
+		<line fill="none" stroke="#FFFFFF" x1="27.627" y1="74.655" x2="28.402" y2="55.542"/>
+		<line fill="none" stroke="#FFFFFF" x1="27.627" y1="74.655" x2="46.742" y2="77.497"/>
+		<line fill="none" stroke="#FFFFFF" x1="46.742" y1="77.497" x2="67.921" y2="76.206"/>
+		<circle fill="#FFFFFF" cx="55.782" cy="90.154" r="2.583"/>
+		<circle fill="#FFFFFF" cx="82.128" cy="44.951" r="1.572"/>
+		<circle fill="#FFFFFF" cx="43.642" cy="41.593" r="1.808"/>
+		<line fill="none" stroke="#FFFFFF" x1="43.643" y1="41.593" x2="59.398" y2="50.634"/>
+		<line fill="none" stroke="#FFFFFF" x1="91.427" y1="53.475" x2="82.129" y2="44.951"/>
+		<line fill="none" stroke="#FFFFFF" x1="46.742" y1="77.497" x2="55.782" y2="90.154"/>
+	</g>
+</g>
+</svg>
